@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="login">Пользователь с таким именем уже существует</string>
+</resources>
